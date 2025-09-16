@@ -61,7 +61,7 @@ You can see the plots by running the code or checking the images in the repo.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn
